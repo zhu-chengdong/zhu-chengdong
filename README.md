@@ -5,12 +5,12 @@
 PhD Student at the University of York
 
 ## Research Interests
-- Visual SLAM
+- SLAM
 - Underwater Robotics
 
 ## Current Projects
-- Underwater Visual SLAM Benchmark
-- SLAM-friendly Image Enhancement
+- Underwater Visual SLAM Dataset
+- SLAM-friendly Image Enhancement for Underwater SLAM
 
 ## Technical Skills
 - ROS
