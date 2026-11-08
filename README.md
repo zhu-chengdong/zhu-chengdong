@@ -1,8 +1,8 @@
 # Chengdong Zhu · 朱铖栋
 
-PhD researcher in Electronic Engineering at the **University of York**, working on underwater robotics, robot perception, and localization and mapping.
+PhD researcher in Electronic Engineering at the **University of York**, working on **robotic system integration, robot perception, and robot control**.
 
-My work spans robot platform design and integration, sensor calibration and experimental data collection, and SLAM methods and evaluation. I am also beginning work on agricultural robotics, with a focus on navigation and robotic arm applications.
+My current projects cover underwater robotic platforms, visual localization and SLAM, stereo dataset development and evaluation, and vision-guided robotic arm control.
 
 [Website](https://zhuchengdong.com) · [Email](mailto:chengdong.zhu@york.ac.uk) · [ORCID](https://orcid.org/0000-0001-5877-2650)
 
